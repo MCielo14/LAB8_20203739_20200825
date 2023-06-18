@@ -1,4 +1,4 @@
-package com.example.lab8_20203739_20200825;
+package Servlets;
 
 import java.io.*;
 
